@@ -1,2 +1,0 @@
-[22-Sep-2017 13:56:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/mfitznet/srts.mfitz.net/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(29) : eval()'d code on line 7
-[22-Sep-2017 14:05:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/mfitznet/srts.mfitz.net/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(29) : eval()'d code on line 7
